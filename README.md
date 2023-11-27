@@ -10,3 +10,7 @@ This project is a web app that tells you who else is viewing it. It can be used 
 Contributing
 ------------
 When you are ready to contribute, see CONTRIBUTING.md for more details.
+
+Test PR
+-------
+This change is to make a test PR
